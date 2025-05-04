@@ -4,15 +4,25 @@ Kidney Tumor Segmentation case study by Ali Nilforoush
 
 ## Repository Directory
 📂 Data - directions on how to import and process the KiTS23 dataset
+
 │-- 
+
 📂 Materials - articles and code
+
 │-- About_Data.md - link to the webpage of dataset source
+
 │-- article1
+
 │-- article2
+
 │-- startercode
+
 Hook.pdf
+
 Rubric.pdf
+
 README.md
+
 LICENSE.md
 
 ## References
