@@ -3,19 +3,23 @@
 Kidney Tumor Segmentation case study by Ali Nilforoush
 
 ## Repository Directory
-📂 Data - directions on how to import and process the KiTS23 dataset
+📂 Data
 
-│-- 
+│-- 📂 Checkpoints
+
+│-- 📂 Comparison_Results
+
+│-- 📂 Preprocessing
+
+│-- data_import_process.md - directions on how to import and process the KiTS23 dataset
 
 📂 Materials - articles and code
 
-│-- About_Data.md - link to the webpage of dataset source
+│-- About_Dataset.md - link to the webpage of dataset source
 
-│-- article1
+│-- DL_Segmentation_RT_Overview.pdf - review article on deep learning segmentation in radiotherapy
 
-│-- article2
-
-│-- startercode
+│-- Kidney_Cancer_Overview.pdf - overview on kidney cancer and treatments
 
 Hook.pdf
 
