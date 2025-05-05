@@ -10,4 +10,4 @@ pip3 install -e .
 kits23_download_data
 cd ..
 ```
-2. this dataset is the raw data, which will be split 64/16/20 (train/validate/test) and cleaned automatically by each model script
+2. this dataset is the raw data. Use and tweak ```data_reorg.py```, ```data_split.py```, then ```data_slice.py``` to preprocess the data for model training. You can change ```data_reorg.py``` to increase or decrease the amount of cases you want to use.
